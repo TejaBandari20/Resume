@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Resume Screener",
+  "description": "Upload a resume and job description to get an ATS match score, a detailed skill comparison, and parsed resume data, all powered by the Gemini API."
+}
